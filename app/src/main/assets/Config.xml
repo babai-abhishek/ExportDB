@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<converters>
+
+    <converter type="HTML">
+        <class-name>HtmlConverter</class-name>
+    </converter>
+
+    <converter type="CSV">
+        <class-name>CsvConverter</class-name>
+    </converter>
+
+    <converter type="XML">
+        <class-name>XmlConverter</class-name>
+    </converter>
+
+</converters>

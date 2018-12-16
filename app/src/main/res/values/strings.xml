@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExportData</string>
+    <string name="exportType">Choose an export type</string>
+    <string name="country_prompt">Choose a Country</string>
+    <string-array name="export_type_array">
+        <item>html</item>
+        <item>csv</item>
+    </string-array>
+</resources>
